@@ -1,4 +1,11 @@
-![tux](https://github.com/adarijani/teaching/blob/main/assets/svg/tux.svg)
+---
+layout: page
+title: UNIX/LINUX/POSIX
+description: UNIX/LINUX/POSIX
+img: assets/img/svg/tux.svg
+importance: 1
+category: teaching
+---
 
 #### General/Offline/Classic Style
 * LPI Linux Essentials [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
