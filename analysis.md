@@ -2,7 +2,7 @@
 layout: page
 title: Analysis
 description: Analysis
-img: assets/svg/analysis.svg
+img: assets/img/svg/analysis.svg
 importance: 2
 category: teaching
 ---
