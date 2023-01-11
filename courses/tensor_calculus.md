@@ -2,7 +2,7 @@
 layout: page
 title: Tensor Calculus
 description: Tensor Calculus
-img: assets/img/tensor_calculus.svg
+img: assets/svg/tensor_calculus.svg
 importance: 2
 category: teaching
 ---
