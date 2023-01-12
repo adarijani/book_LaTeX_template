@@ -21,9 +21,10 @@
 \contentsline {subsection}{\numberline {A.1.1}Subsection Heading}{13}{}%
 \contentsline {subsubsection}{\numberline {A.1.1.1}Subsubsection Heading}{13}{}%
 \contentsline {chapter}{Glossary}{15}{}%
+\contentsline {paragraph}{GNU}{15}{}%
 \contentsline {paragraph}{glossary term}{15}{}%
 \contentsline {paragraph}{glossary term}{15}{}%
-\contentsline {paragraph}{glossary term}{15}{}%
-\contentsline {paragraph}{glossary term}{15}{}%
+\contentsline {paragraph}{abs}{15}{}%
 \contentsline {paragraph}{glossary term}{15}{}%
 \contentsline {chapter}{Solutions}{17}{}%
+\contentsline {chapter}{Index}{19}{}%
