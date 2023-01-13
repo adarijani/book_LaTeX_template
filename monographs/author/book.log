@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  13 JAN 2023 01:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  13 JAN 2023 01:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -779,18 +779,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 
 
 
-]
-Overfull \hbox (3.22217pt too wide) in paragraph at lines 10--11
-\OT1/minntx/m/n/10 Use the tem-plate \OT1/ntxtlf/m/it/10 acronym.tex \OT1/minntx/m/n/10 to-gether with the doc-u-ment class SV-Mono (monograph-
- []
-
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 12.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
-File: ot1ntxtt.fd 2012/04/20 v3.1
-)
-LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 12.
-) [15] [16
+]) [15] [16
 
 
 
@@ -826,6 +815,12 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 
 ]
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 35.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
+File: ot1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 35.
 LaTeX Font Info:    Trying to load font information for OT1+ntxsups on input line 41.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxsups.fd
 File: ot1ntxsups.fd 2015/01/17 v1.0
@@ -853,7 +848,7 @@ Package epstopdf Info: Source file: <figure.eps>
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
-<figure-eps-converted-to.pdf, id=60, 139.52126pt x 195.73125pt>
+<figure-eps-converted-to.pdf, id=59, 139.52126pt x 195.73125pt>
 File: figure-eps-converted-to.pdf Graphic file (type pdf)
 <use figure-eps-converted-to.pdf>
 Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 80.
@@ -1116,7 +1111,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  69i,12n,76p,773b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on book.pdf (43 pages, 267118 bytes).
+Output written on book.pdf (43 pages, 266909 bytes).
 PDF statistics:
  231 PDF objects out of 1000 (max. 8388607)
  151 compressed objects within 2 object streams

@@ -700,11 +700,6 @@ INPUT ./acronym.tex
 INPUT acronym.tex
 INPUT ./acronym.tex
 INPUT acronym.tex
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txtt.tfm
 INPUT ./part.tex
 INPUT ./part.tex
 INPUT ./part.tex
@@ -767,6 +762,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/txmiaX.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/txfonts/txtt.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxsups.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxsups.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxsups.fd
