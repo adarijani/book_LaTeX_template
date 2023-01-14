@@ -9,11 +9,10 @@ This repository contains a simple template for building [pdf](https://en.wikiped
 ### Installing the Required LaTeX stuff
 
 Please, check [LaTeX](https://www.latex-project.org/) homepage for extensive information. On macOS, it
-can be installed as the [mactex](https://www.tug.org/mactex/) package using the [brew](https://brew.sh/) package manager:
+can be installed as the [mactex](https://www.tug.org/mactex/) package using the [brew](https://brew.sh/) package manager and sit tight since the package is pretty big(around 4.6 GB):
 
 ```sh
 brew install mactex
 ```
-- ***THE PACKAGE IS BIG(4GB)***
 
 - to be continued
