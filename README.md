@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains a simple template for building [pdf](https://en.wikipedia.org/wiki/PDF) document from a [LaTeX](https://www.latex-project.org/) project template. The template is from [Springer](https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation)
+This repository contains a simple template for building [pdf](https://en.wikipedia.org/wiki/PDF) document from a [LaTeX](https://www.latex-project.org/) project template. The template itself is from [Springer](https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation). The rest is to explain a possible workflow on [Darwin](https://github.com/apple/darwin-xnu).
 
 ### Installing the Required LaTeX stuff
 
