@@ -1,6 +1,6 @@
-# Pandoc book template
+# LaTeX book template
 
-![License](https://github.com/adarijani/book-less-explaining/blob/main/images/license_logo.svg)
+![License](https://github.com/adarijani/book_LaTeX/blob/main/images/svg/license_logo.svg)
 
 ## Description
 
