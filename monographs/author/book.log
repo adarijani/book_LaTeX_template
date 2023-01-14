@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.15)  14 JAN 2023 02:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  14 JAN 2023 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/rknot/Desktop/teaching/monographs/author/book.tex
-(/Users/rknot/Desktop/teaching/monographs/author/book.tex
+**/Users/rknot/GitHub/teaching/monographs/author/book.tex
+(/Users/rknot/GitHub/teaching/monographs/author/book.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./svmono.cls
 Document Class: svmono 2021/09/08 v5.10 
@@ -518,8 +518,13 @@ LaTeX Font Info:    Redeclaring math accent \vec on input line 2020.
 LaTeX Info: Redefining \Bbbk on input line 2810.
 LaTeX Info: Redefining \not on input line 2959.
 )
+\@indexfile=\write4
+\openout4 = `book.idx'.
+
+
+Writing index file book.idx
 LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -528,7 +533,116 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box100
-) (./book.aux (./unix_linux_posix.aux))
+) (./book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./unix_linux_posix.aux) (./chapter.aux
+
+LaTeX Warning: Label `intro' multiply defined.
+
+
+LaTeX Warning: Label `sec:1' multiply defined.
+
+
+LaTeX Warning: Label `sec:2' multiply defined.
+
+
+LaTeX Warning: Label `eq:01' multiply defined.
+
+
+LaTeX Warning: Label `subsec:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `tab:1' multiply defined.
+
+
+LaTeX Warning: Label `sec:3' multiply defined.
+
+
+LaTeX Warning: Label `prob1' multiply defined.
+
+
+LaTeX Warning: Label `prob2' multiply defined.
+
+
+LaTeX Warning: Label `science-contrib' multiply defined.
+
+
+LaTeX Warning: Label `science-online' multiply defined.
+
+
+LaTeX Warning: Label `science-mono' multiply defined.
+
+
+LaTeX Warning: Label `science-journal' multiply defined.
+
+
+LaTeX Warning: Label `science-DOI' multiply defined.
+
+
+LaTeX Warning: Label `phys-online' multiply defined.
+
+
+LaTeX Warning: Label `phys-mono' multiply defined.
+
+
+LaTeX Warning: Label `phys-journal' multiply defined.
+
+
+LaTeX Warning: Label `phys-DOI' multiply defined.
+
+
+LaTeX Warning: Label `phys-contrib' multiply defined.
+
+
+LaTeX Warning: Label `psysoc-mono' multiply defined.
+
+
+LaTeX Warning: Label `psysoc-online' multiply defined.
+
+
+LaTeX Warning: Label `psysoc-journal' multiply defined.
+
+
+LaTeX Warning: Label `psysoc-contrib' multiply defined.
+
+
+LaTeX Warning: Label `psysoc-DOI' multiply defined.
+
+
+LaTeX Warning: Label `humlinphil-journal' multiply defined.
+
+
+LaTeX Warning: Label `humlinphil-contrib' multiply defined.
+
+
+LaTeX Warning: Label `humlinphil-mono' multiply defined.
+
+
+LaTeX Warning: Label `humlinphil-online' multiply defined.
+
+
+LaTeX Warning: Label `humlinphil-DOI' multiply defined.
+
+
+LaTeX Warning: Label `basic-contrib' multiply defined.
+
+
+LaTeX Warning: Label `basic-online' multiply defined.
+
+
+LaTeX Warning: Label `basic-DOI' multiply defined.
+
+
+LaTeX Warning: Label `basic-journal' multiply defined.
+
+
+LaTeX Warning: Label `basic-mono' multiply defined.
+
+) (./appendix.aux) (./glossary.aux) (./solutions.aux))
 \openout1 = `book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 40.
@@ -621,220 +735,452 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 
 ]
-\openout2 = `unix_linux_posix.aux'.
+\openout2 = `dedication.aux'.
 
- (./unix_linux_posix.tex
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.0pt on input line 9.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 16.0pt on input line 9.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 16.0pt on input line 9.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.5pt on input line 9.
+ (./dedication.tex
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 8.5pt on input line 9.
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 9.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 9.
+(Font)              scaled to size 12.0pt on input line 10.
+ [5
+
+
+
+])
+\openout2 = `foreword.aux'.
+
+ (./foreword.tex [6
+
+
+
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 16.0pt on input line 10.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 16.0pt on input line 10.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 10.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 10.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.3> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 10.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 10.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 10.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 15.
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.5pt on input line 50.
+ [7]
+\openout2 = `preface.aux'.
+
+ (./preface.tex [8
+
+
+
+
+
+]) [9]
+\openout2 = `acknowledgement.aux'.
+
+ (./acknowledgement.tex [10
+
+
+
+
+
+]) [11] [12
+
+
+
+
+] (./book.toc
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+)
+\tf@toc=\write5
+\openout5 = `book.toc'.
+
+ [13]
+\openout2 = `acronym.aux'.
+
+ (./acronym.tex [14
+
+
+
+]) [15] [16
+
+
+
+
+]
+\openout2 = `part.aux'.
+
+ (./part.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 18.0pt on input line 10.
+ [1
+
+
+
+] [2])
+\openout2 = `unix_linux_posix.aux'.
+
+ (./unix_linux_posix.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.0pt on input line 9.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 8.5pt on input line 9.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.67993> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.80005> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 9.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
-File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 9.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
-File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 9.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.3> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 16.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 18.
+(Font)              scaled to size 12.0pt on input line 22.
 
-Overfull \hbox (3.0pt too wide) detected at line 20
+Overfull \hbox (3.0pt too wide) detected at line 26
  [] 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 21.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 27.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
 File: ot1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 21.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 31.
+(Font)              scaled to size 10.0pt on input line 27.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 40.
- [5
+(Font)              scaled to size 7.3pt on input line 46.
+ [3
 
 
 
-] [6]
-LaTeX Font Info:    Trying to load font information for OT1+ntxsups on input line 52.
+
+
+] [4]
+LaTeX Font Info:    Trying to load font information for OT1+ntxsups on input line 58.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxsups.fd
 File: ot1ntxsups.fd 2015/01/17 v1.0
 )
 LaTeX Font Info:    Font shape `OT1/ntxsups/m/n' will be
-(Font)              scaled to size 10.0pt on input line 52.
+(Font)              scaled to size 10.0pt on input line 58.
 LaTeX Font Info:    Font shape `OT1/ntxsups/m/n' will be
-(Font)              scaled to size 8.5pt on input line 52.
+(Font)              scaled to size 8.5pt on input line 58.
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 8.5pt on input line 52.
+(Font)              scaled to size 8.5pt on input line 58.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.5pt on input line 52.
+(Font)              scaled to size 8.5pt on input line 58.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
-(Font)              scaled to size 8.5pt on input line 52.
+(Font)              scaled to size 8.5pt on input line 58.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 11.0pt on input line 65.
+(Font)              scaled to size 11.0pt on input line 71.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 11.0pt on input line 65.
+(Font)              scaled to size 11.0pt on input line 71.
 Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2023-01-14 02:15:41
+(epstopdf)                    date: 2007-06-29 20:04:26
 (epstopdf)                    size: 62739 bytes
 (epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-14 02:15:41
+(epstopdf)                    date: 2023-01-12 23:36:18
 (epstopdf)                    size: 13846 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 91.
+(epstopdf)             \includegraphics on input line 97.
 Package epstopdf Info: Output file is already uptodate.
-<figure-eps-converted-to.pdf, id=19, 139.52126pt x 195.73125pt>
+<figure-eps-converted-to.pdf, id=63, 139.52126pt x 195.73125pt>
 File: figure-eps-converted-to.pdf Graphic file (type pdf)
 <use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 91.
+Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 97.
 (pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
- [7]
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 120.
+ [5]
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 126.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 120.
- [8 <./figure-eps-converted-to.pdf>]
+(Font)              scaled to size 10.0pt on input line 126.
+ [6 <./figure-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2023-01-14 02:15:41
+(epstopdf)                    date: 2007-06-29 20:04:26
 (epstopdf)                    size: 62739 bytes
 (epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-14 02:15:41
+(epstopdf)                    date: 2023-01-12 23:36:18
 (epstopdf)                    size: 13846 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 138.
+(epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 File: figure-eps-converted-to.pdf Graphic file (type pdf)
 <use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 138.
+Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 144.
 (pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
-(Font)              scaled to size 10.0pt on input line 144.
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 157.
+(Font)              scaled to size 10.0pt on input line 150.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 163.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.20496> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.67502> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
 
-Overfull \hbox (0.61853pt too wide) in paragraph at lines 157--168
+Overfull \hbox (0.61853pt too wide) in paragraph at lines 163--174
 [][]
  []
 
-[9] [10]
-Overfull \hbox (3.0pt too wide) detected at line 243
+[7] [8]
+Overfull \hbox (3.0pt too wide) detected at line 249
  [] 
  []
 
 LaTeX Font Info:    Font shape `TS1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 250.
-LaTeX Font Info:    Trying to load font information for OT1+qhv on input line 250.
+(Font)              scaled to size 10.0pt on input line 256.
+LaTeX Font Info:    Trying to load font information for OT1+qhv on input line 256.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/tex-gyre/ot1qhv.fd
 File: ot1qhv.fd 2009/09/25 v1.2 font definition file for OT1/qhv
 )
 LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 250.
+(Font)              scaled to size 9.40002pt on input line 256.
 LaTeX Font Info:    Font shape `OT1/qhv/b/n' will be
-(Font)              scaled to size 9.40002pt on input line 250.
+(Font)              scaled to size 9.40002pt on input line 256.
 
-Overfull \hbox (3.0pt too wide) detected at line 250
+Overfull \hbox (3.0pt too wide) detected at line 256
  [] 
  []
 
 
-Overfull \hbox (3.0pt too wide) detected at line 258
+Overfull \hbox (3.0pt too wide) detected at line 264
  [] 
  []
 
-[11]
-Overfull \hbox (3.0pt too wide) detected at line 266
- [] 
- []
-
-
-Overfull \hbox (3.0pt too wide) detected at line 273
+[9]
+Overfull \hbox (3.0pt too wide) detected at line 272
  [] 
  []
 
 
-Overfull \hbox (3.0pt too wide) detected at line 285
+Overfull \hbox (3.0pt too wide) detected at line 279
  [] 
  []
 
 
-Overfull \hbox (3.0pt too wide) detected at line 293
+Overfull \hbox (3.0pt too wide) detected at line 291
  [] 
  []
 
-[12
+
+Overfull \hbox (3.0pt too wide) detected at line 299
+ [] 
+ []
+
+[10
 
 ]
-Overfull \hbox (3.0pt too wide) detected at line 300
+Overfull \hbox (3.0pt too wide) detected at line 306
  [] 
  []
 
 
-Overfull \hbox (3.0pt too wide) detected at line 311
+Overfull \hbox (3.0pt too wide) detected at line 317
  [] 
  []
 
-(./references.tex [13
+(./references.tex [11
 
-] [14])) [15]
-\tf@thm=\write4
-\openout4 = `book.thm'.
+] [12])) [13]
+\openout2 = `chapter.aux'.
 
- (./book.aux (./unix_linux_posix.aux)) ) 
+ (./chapter.tex [14
+
+
+
+
+
+]
+Chapter 2.
+
+Overfull \hbox (6.62218pt too wide) in paragraph at lines 18--18
+\OT1/minntx/m/n/10 that sum-ma-rizes the con-tent. The ab-stract will ap-pear \OT1/ntxtlf/m/it/10 on-line \OT1/minntx/m/n/10 at www.SpringerLink.com
+ []
+
+[15]
+Package epstopdf Info: Source file: <figure.eps>
+(epstopdf)                    date: 2007-06-29 20:04:26
+(epstopdf)                    size: 62739 bytes
+(epstopdf)             Output file: <figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-01-12 23:36:18
+(epstopdf)                    size: 13846 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
+(epstopdf)             \includegraphics on input line 82.
+Package epstopdf Info: Output file is already uptodate.
+File: figure-eps-converted-to.pdf Graphic file (type pdf)
+<use figure-eps-converted-to.pdf>
+Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 82.
+(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+ [16] [17]
+Package epstopdf Info: Source file: <figure.eps>
+(epstopdf)                    date: 2007-06-29 20:04:26
+(epstopdf)                    size: 62739 bytes
+(epstopdf)             Output file: <figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-01-12 23:36:18
+(epstopdf)                    size: 13846 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+File: figure-eps-converted-to.pdf Graphic file (type pdf)
+<use figure-eps-converted-to.pdf>
+Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 129.
+(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+
+Overfull \hbox (0.61853pt too wide) in paragraph at lines 148--159
+[][]
+ []
+
+[18] [19]
+Overfull \hbox (3.0pt too wide) detected at line 234
+ [] 
+ []
+
+
+Overfull \hbox (3.0pt too wide) detected at line 241
+ [] 
+ []
+
+
+Overfull \hbox (3.0pt too wide) detected at line 249
+ [] 
+ []
+
+[20]
+Overfull \hbox (3.0pt too wide) detected at line 257
+ [] 
+ []
+
+
+Overfull \hbox (3.0pt too wide) detected at line 264
+ [] 
+ []
+
+
+Overfull \hbox (3.0pt too wide) detected at line 276
+ [] 
+ []
+
+
+Overfull \hbox (3.0pt too wide) detected at line 284
+ [] 
+ []
+
+[21
+
+]
+Overfull \hbox (3.0pt too wide) detected at line 291
+ [] 
+ []
+
+
+Overfull \hbox (3.0pt too wide) detected at line 302
+ [] 
+ []
+
+(./references.tex [22
+
+] [23])) [24]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex
+Appendix A.
+[25
+
+
+
+
+
+]
+Package epstopdf Info: Source file: <figure.eps>
+(epstopdf)                    date: 2007-06-29 20:04:26
+(epstopdf)                    size: 62739 bytes
+(epstopdf)             Output file: <figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-01-12 23:36:18
+(epstopdf)                    size: 13846 bytes
+(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+File: figure-eps-converted-to.pdf Graphic file (type pdf)
+<use figure-eps-converted-to.pdf>
+Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 58.
+(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+
+Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
+[][]
+ []
+
+) [26]
+\openout2 = `glossary.aux'.
+
+ (./glossary.tex) [27
+
+
+
+
+
+
+
+]
+\openout2 = `solutions.aux'.
+
+ (./solutions.tex [28
+
+
+
+
+
+]) [29] (./book.ind [30
+
+
+
+
+] [31])
+\tf@thm=\write6
+\openout6 = `book.thm'.
+
+ (./book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./unix_linux_posix.aux) (./chapter.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 9105 strings out of 478268
- 134388 string characters out of 5846346
- 431781 words of memory out of 5000000
- 27067 multiletter control sequences out of 15000+600000
- 557424 words of font info for 188 fonts, out of 8000000 for 9000
+ 9437 strings out of 478268
+ 142513 string characters out of 5846348
+ 438541 words of memory out of 5000000
+ 27320 multiletter control sequences out of 15000+600000
+ 571765 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,76p,774b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,76p,773b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on book.pdf (13 pages, 237060 bytes).
+Output written on book.pdf (45 pages, 268413 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 237 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
