@@ -1,5 +1,5 @@
 \contentsline {part}{Part\ I\hspace {\betweenumberspace }Part Title}{1}{}%
-\contentsline {chapter}{\numberline {1}, , , and beyond }{3}{}%
+\contentsline {chapter}{\numberline {1}Unix, Linux, POSIX, and beyond }{3}{}%
 \contentsline {section}{\numberline {1.1}Unix or not to Unix!}{3}{}%
 \contentsline {subsection}{\numberline {1.1.1}BSc Years}{3}{}%
 \contentsline {section}{\numberline {1.2}Section Heading}{4}{}%
