@@ -16,32 +16,15 @@
 \contentsline {section}{Appendix}{10}{}%
 \contentsline {section}{Problems}{10}{}%
 \contentsline {section}{References}{11}{}%
-\contentsline {chapter}{\numberline {2}Chapter Heading}{13}{}%
-\contentsline {section}{\numberline {2.1}Section Heading}{13}{}%
-\contentsline {section}{\numberline {2.2}Section Heading}{13}{}%
-\contentsline {subsection}{\numberline {2.2.1}Subsection Heading}{14}{}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}Subsubsection Heading}{14}{}%
-\contentsline {paragraph}{Paragraph Heading}{14}{}%
-\contentsline {paragraph}{Subparagraph Heading}{15}{}%
-\contentsline {paragraph}{Run-in Heading Boldface Version}{16}{}%
-\contentsline {paragraph}{Run-in Heading Boldface and Italic Version}{16}{}%
-\contentsline {paragraph}{Run-in Heading Displayed Version}{16}{}%
-\contentsline {section}{\numberline {2.3}Section Heading}{16}{}%
-\contentsline {subsection}{\numberline {2.3.1}Subsection Heading}{17}{}%
-\contentsline {subsubsection}{\numberline {2.3.1.1}Subsubsection Heading}{17}{}%
-\contentsline {paragraph}{Paragraph Heading}{18}{}%
-\contentsline {section}{Appendix}{20}{}%
-\contentsline {section}{Problems}{20}{}%
-\contentsline {section}{References}{21}{}%
-\contentsline {chapter}{\numberline {A}Chapter Heading}{23}{}%
-\contentsline {section}{\numberline {A.1}Section Heading}{23}{}%
-\contentsline {subsection}{\numberline {A.1.1}Subsection Heading}{23}{}%
-\contentsline {subsubsection}{\numberline {A.1.1.1}Subsubsection Heading}{23}{}%
-\contentsline {chapter}{Glossary}{25}{}%
-\contentsline {paragraph}{GNU}{25}{}%
-\contentsline {paragraph}{glossary term}{25}{}%
-\contentsline {paragraph}{glossary term}{25}{}%
-\contentsline {paragraph}{abs}{25}{}%
-\contentsline {paragraph}{glossary term}{25}{}%
-\contentsline {chapter}{Solutions}{27}{}%
-\contentsline {chapter}{Index}{29}{}%
+\contentsline {chapter}{\numberline {A}Chapter Heading}{13}{}%
+\contentsline {section}{\numberline {A.1}Section Heading}{13}{}%
+\contentsline {subsection}{\numberline {A.1.1}Subsection Heading}{13}{}%
+\contentsline {subsubsection}{\numberline {A.1.1.1}Subsubsection Heading}{13}{}%
+\contentsline {chapter}{Glossary}{15}{}%
+\contentsline {paragraph}{GNU}{15}{}%
+\contentsline {paragraph}{glossary term}{15}{}%
+\contentsline {paragraph}{glossary term}{15}{}%
+\contentsline {paragraph}{abs}{15}{}%
+\contentsline {paragraph}{glossary term}{15}{}%
+\contentsline {chapter}{Solutions}{17}{}%
+\contentsline {chapter}{Index}{19}{}%
