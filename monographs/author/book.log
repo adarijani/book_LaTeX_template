@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  13 JAN 2023 01:14
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.15)  14 JAN 2023 01:34
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/rknot/GitHub/teaching/monographs/author/book.tex
-(/Users/rknot/GitHub/teaching/monographs/author/book.tex
+**book.tex
+(./book.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./svmono.cls
 Document Class: svmono 2021/09/08 v5.10 
@@ -16,14 +15,14 @@ Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -31,7 +30,7 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \svparindent=\dimen139
 \betweenumberspace=\dimen140
 \headlineindent=\dimen141
-\c@chapter=\count193
+\c@chapter=\count189
 \mottowidth=\dimen142
 \svitemindent=\dimen143
 \verbatimindent=\dimen144
@@ -58,40 +57,42 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 849.
 \tocsubparanum=\dimen154
 \foot@parindent=\dimen155
 \spthmsep=\dimen156
-\c@theorem=\count194
-\c@case=\count195
-\c@conjecture=\count196
-\c@corollary=\count197
-\c@definition=\count198
-\c@example=\count199
-\c@exercise=\count266
-\c@lemma=\count267
-\c@note=\count268
-\c@problem=\count269
-\c@property=\count270
-\c@proposition=\count271
-\c@question=\count272
-\c@solution=\count273
-\c@remark=\count274
-\c@prob=\count275
+\c@theorem=\count190
+\c@case=\count191
+\c@conjecture=\count192
+\c@corollary=\count193
+\c@definition=\count194
+\c@example=\count195
+\c@exercise=\count196
+\c@lemma=\count197
+\c@note=\count198
+\c@problem=\count199
+\c@property=\count266
+\c@proposition=\count267
+\c@question=\count268
+\c@solution=\count269
+\c@remark=\count270
+\c@prob=\count271
 \instindent=\dimen157
 \figgap=\dimen158
 \bildb@x=\box50
 \figcapgap=\dimen159
 \tabcapgap=\dimen160
-\c@merk=\count276
+\c@merk=\count272
 LaTeX Info: Redefining \abstract on input line 1902.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
- (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
 Package xcolor Info: Model `RGB' extended on input line 1368.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
@@ -99,9 +100,11 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/x11nam.def
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/x11nam.def
 File: x11nam.def 2021/10/31 v2.13 Predefined colors according to Unix/X11 (UK)
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ntheorem/ntheorem.sty
 Style `ntheorem', Version 1.33 <2011/08/15>
 Package: ntheorem 2011/08/15 1.33
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
@@ -138,20 +141,20 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \thm@topsep=\skip55
 \thm@topsepadd=\skip56
 Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
-\c@endNonectr=\count277
-\c@currNonectr=\count278
+\c@endNonectr=\count273
+\c@currNonectr=\count274
 \mysavskip=\skip57
 Package ntheorem Info: Option `thref' loaded on input line 1175.
 \mysavskip=\skip58
 )
-\c@currproofctr=\count279
-\c@endproofctr=\count280
-\c@proof=\count281
+\c@currproofctr=\count275
+\c@endproofctr=\count276
+\c@proof=\count277
 \minitoc=\write3
-\c@minitocdepth=\count282
-\c@@inst=\count283
-\c@@auth=\count284
-\c@auco=\count285
+\c@minitocdepth=\count278
+\c@@inst=\count279
+\c@@auth=\count280
+\c@auco=\count281
 \instindent=\dimen165
 \authrun=\box51
 \authorrunning=\toks34
@@ -159,44 +162,54 @@ Package ntheorem Info: Option `thref' loaded on input line 1175.
 \titrun=\box52
 \titlerunning=\toks36
 \toctitle=\toks37
-\c@contribution=\count286
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/framed/framed.sty
+\c@contribution=\count282
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip59
 \fb@frw=\dimen166
 \fb@frh=\dimen167
 \FrameRule=\dimen168
 \FrameSep=\dimen169
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/type1cm/type1cm.sty
-Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, patched RF)
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/makeidx.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/type1cm/type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks38
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: xetex.def on input line 107.
 )
 \Gin@req@height=\dimen170
 \Gin@req@width=\dimen171
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count287
+\c@tracingmulticols=\count283
 \mult@box=\box53
 \multicol@leftmargin=\dimen172
-\c@unbalance=\count288
-\c@collectmore=\count289
-\doublecol@number=\count290
-\multicoltolerance=\count291
-\multicolpretolerance=\count292
+\c@unbalance=\count284
+\c@collectmore=\count285
+\doublecol@number=\count286
+\multicoltolerance=\count287
+\multicolpretolerance=\count288
 \full@width=\dimen173
 \page@free=\dimen174
 \premulticols=\dimen175
@@ -246,16 +259,17 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\c@minrows=\count293
-\c@columnbadness=\count294
-\c@finalcolumnbadness=\count295
+\c@minrows=\count289
+\c@columnbadness=\count290
+\c@finalcolumnbadness=\count291
 \last@try=\dimen178
 \multicolovershoot=\dimen179
 \multicolundershoot=\dimen180
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
-\mc@col@check@num=\count296
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/footmisc/footmisc.sty
+\mc@col@check@num=\count292
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
 \FN@temptoken=\toks39
 \footnotemargin=\dimen181
@@ -264,121 +278,184 @@ Package footmisc Info: Declaring symbol style bringhurst on input line 695.
 Package footmisc Info: Declaring symbol style chicago on input line 703.
 Package footmisc Info: Declaring symbol style wiley on input line 712.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
 Package footmisc Info: Declaring symbol style lamport* on input line 743.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 764.
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/newtxtext.sty
-Package: newtxtext 2022/02/28 v1.71(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
- `newtxtext' v1.71, 2022/02/28 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2022/02/28 v1.71(Michael Sharpe) latex and unicode latex sup
+port for TeXGyreTermesX
+
+`newtxtext' v1.71, 2022/02/28 Text macros taking advantage of TeXGyre Termes an
+d its extensions (msharpe)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks40
 \XKV@tempa@toks=\toks41
 )
-\XKV@depth=\count297
+\XKV@depth=\count293
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count298
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+\etb@tempcnta=\count294
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2022/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count299
-\decimalpart=\count300
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count295
+\decimalpart=\count296
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 21.
 LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 21.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 21.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 21.
- (/usr/local/texlive/2022/texmf-dist/tex/generic/kastrup/binhex.tex)
-\ntx@tmpcnta=\count301
-\ntx@cnt=\count302
 
-ntx@otftextfalse
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty
-Package: fontaxes 2020/07/21 v1.0e Font selection axes
-LaTeX Info: Redefining \upshape on input line 29.
-LaTeX Info: Redefining \itshape on input line 31.
-LaTeX Info: Redefining \slshape on input line 33.
-LaTeX Info: Redefining \swshape on input line 35.
-LaTeX Info: Redefining \scshape on input line 37.
-LaTeX Info: Redefining \sscshape on input line 39.
-LaTeX Info: Redefining \ulcshape on input line 41.
-LaTeX Info: Redefining \textsw on input line 47.
-LaTeX Info: Redefining \textssc on input line 48.
-LaTeX Info: Redefining \textulc on input line 49.
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kastrup/binhex.tex)
+\ntx@tmpcnta=\count297
+\ntx@cnt=\count298
+
+ntx@otftexttrue
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count299
+\l__color_backend_stack_int=\count300
+\g__color_backend_stack_int=\count301
+\g__graphics_track_int=\count302
+\l__pdf_internal_box=\box98
+\g__pdf_backend_object_int=\count303
+\g__pdf_backend_annotation_int=\count304
+\g__pdf_backend_link_int=\count305
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
 )
-LaTeX Info: Redefining \oldstylenums on input line 657.
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count306
+\l__fontspec_language_int=\count307
+\l__fontspec_strnum_int=\count308
+\l__fontspec_tmp_int=\count309
+\l__fontspec_tmpa_int=\count310
+\l__fontspec_tmpb_int=\count311
+\l__fontspec_tmpc_int=\count312
+\l__fontspec_em_int=\count313
+\l__fontspec_emdef_int=\count314
+\l__fontspec_strong_int=\count315
+\l__fontspec_strongdef_int=\count316
+\l__fontspec_tmpa_dim=\dimen183
+\l__fontspec_tmpb_dim=\dimen184
+\l__fontspec_tmpc_dim=\dimen185
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+LaTeX Info: Redefining \oldstylenums on input line 479.
+LaTeX Info: Redefining \liningnums on input line 483.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+\subsupersep=\dimen186
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/newtxmath.sty
 Package: newtxmath 2022/01/16 v1.71
- `newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+
+`newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks42
-\ex@=\dimen183
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\ex@=\dimen187
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen184
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen188
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count303
+\inf@bad=\count317
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count304
-\leftroot@=\count305
+\uproot@=\count318
+\leftroot@=\count319
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count306
-\DOTSCASE@=\count307
+\classnum@=\count320
+\DOTSCASE@=\count321
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box98
-\strutbox@=\box99
-\big@size=\dimen185
+\Mathstrutbox@=\box99
+\strutbox@=\box100
+\big@size=\dimen189
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count308
-\c@MaxMatrixCols=\count309
+\macc@depth=\count322
+\c@MaxMatrixCols=\count323
 \dotsspace@=\muskip16
-\c@parentequation=\count310
-\dspbrk@lvl=\count311
+\c@parentequation=\count324
+\dspbrk@lvl=\count325
 \tag@help=\toks43
-\row@=\count312
-\column@=\count313
-\maxfields@=\count314
+\row@=\count326
+\column@=\count327
+\maxfields@=\count328
 \andhelp@=\toks44
-\eqnshift@=\dimen186
-\alignsep@=\dimen187
-\tagshift@=\dimen188
-\tagwidth@=\dimen189
-\totwidth@=\dimen190
-\lineht@=\dimen191
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
 \@envbody=\toks45
 \multlinegap=\skip63
 \multlinetaggap=\skip64
 \mathdisplay@stack=\toks46
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/oberdiek/centernot.sty
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count315
- (/usr/local/texlive/2022/texmf-dist/tex/generic/kastrup/binhex.tex)
-\tx@Isdigit=\count316
-\tx@IsAlNum=\count317
+\tx@cntz=\count329
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count330
+\tx@IsAlNum=\count331
 \tx@tA=\toks47
 \tx@tB=\toks48
 \tx@su=\read2
@@ -393,9 +470,9 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 377.
 LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 383.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 383.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 383.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 383.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 383.
 LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 384.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 384.
@@ -403,9 +480,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 384.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 385.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 385.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 385.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 385.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 385.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 387.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 387.
@@ -414,9 +491,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 388.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 389.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 389.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/ntxtt/m/n --> OT1/ntxtt/b/n on input line 390.
+(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 390.
 LaTeX Font Info:    Redeclaring symbol font `letters' on input line 491.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
 (Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 491.
@@ -427,8 +504,6 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 \symlettersA=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
 (Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 547.
-Now handling font encoding LMS ...
-... no UTF-8 mapping file for font encoding LMS
 LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 568.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 568.
@@ -446,21 +521,22 @@ LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
 \symsymbolsC=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
 (Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 615.
-Now handling font encoding LMX ...
-... no UTF-8 mapping file for font encoding LMX
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 628.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 628.
+(Font)              `largesymbols' in the math version `normal' on input line 6
+28.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 628.
+(Font)              `largesymbols' in the math version `bold' on input line 628
+.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 629.
 \symlargesymbolsTXA=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 643.
 \tx@sbptoks=\toks49
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 866.
@@ -485,17 +561,102 @@ LaTeX Info: Redefining \not on input line 2959.
 
 
 Writing index file book.idx
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 40.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
-File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
-)
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/TeXGyreTermesX.fontspec)
+Requested font "[TeXGyreTermesX-Regular.otf]/OT" at 9.99997pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+Requested font "[TeXGyreTermesX-Regular.otf]/OT" at 10.00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;" at 
+10.00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;" at 10.
+00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
+Requested font "[TeXGyreTermesX-Italic.otf]/OT:script=latn;language=dflt;" at 1
+0.00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Italic.otf
+Requested font "[TeXGyreTermesX-Slanted.otf]/OT:script=latn;language=dflt;" at 
+10.00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Slanted.otf
+Requested font "[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;language=dflt;" 
+at 10.00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-BoldItalic.otf
+Requested font "[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn;language=dflt;"
+ at 10.00003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-BoldSlanted.otf
+
+Package fontspec Info: Font family 'TeXGyreTermesX(0)' created for font
+(fontspec)             'TeXGyreTermesX' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,SmallCapsFeatures={RawFeature =
+(fontspec)             +pcap, },RawFeature=-ss05,Ligatures=TeX,Extension =
+(fontspec)             .otf,UprightFont = TeXGyreTermesX-Regular,BoldFont =
+(fontspec)             TeXGyreTermesX-Bold,ItalicFont =
+(fontspec)             TeXGyreTermesX-Italic,BoldItalicFont =
+(fontspec)             TeXGyreTermesX-BoldItalic,SlantedFont =
+(fontspec)             *-Slanted,BoldSlantedFont= *-BoldSlanted,Numbers =
+(fontspec)             {Monospaced,Lining},UprightFont = *-Regular,ItalicFont
+(fontspec)             = *-Italic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic,SlantedFont = *-Slanted,BoldSlantedFont=
+(fontspec)             *-BoldSlanted].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Regular.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Regular.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Bold.otf]/OT:script=latn;langua
+ge=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Bold.otf]/OT:script=latn;langua
+ge=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Italic.otf]/OT:script=latn;lang
+uage=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Italic.otf]/OT:script=latn;lang
+uage=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Slanted.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Slanted.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;
+language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;
+language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn
+;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn
+;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count318
-\l__pdf_internal_box=\box100
-) (./book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./unix_linux_posix.aux) (./chapter.aux
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+
+(./book.aux (./dedication.aux) (./foreword.aux) (./preface.aux)
+(./acknowledgement.aux) (./acronym.aux) (./part.aux) (./unix_linux_posix.aux)
+(./chapter.aux
 
 LaTeX Warning: Label `intro' multiply defined.
 
@@ -608,8 +769,10 @@ LaTeX Warning: Label `basic-mono' multiply defined.
 \openout1 = `book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 40.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlntxmi.fd
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 40.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 40.
@@ -620,88 +783,81 @@ LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+0.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxexa.fd
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+40.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 40.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 40.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 40.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 40.
- (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
-\scratchdimen=\dimen192
-\scratchbox=\box101
-\nofMPsegments=\count320
-\nofMParguments=\count321
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count322
-\MPscratchDim=\dimen193
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
-\everyMPtoPDFconversion=\toks51
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
- (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-\c@mv@tabular=\count325
-\c@mv@boldtabular=\count326
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 18.0pt on input line 45.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 18.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 45.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 24.88pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 45.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 14.0pt on input line 45.
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 14.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
  [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+] [2
 
 
 ]
 \openout2 = `dedication.aux'.
 
- (./dedication.tex
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+
+(./dedication.tex
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 10.
+Requested font "[TeXGyreTermesX-Italic.otf]/OT:script=latn;language=dflt;-ss05;
++tnum;+lnum;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Italic.otf
  [5
 
 
@@ -717,35 +873,111 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 
 
 ]
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 10.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 10.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 10.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1minntx.fd
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
+e 10.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 10.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
+Requested font "ntx-Regular-tlf-ot1" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-o
+t1.tfm
+Requested font "ntx-Regular-tlf-ot1" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-o
+t1.tfm
+Requested font "ntx-Regular-tlf-ot1" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-o
+t1.tfm
+Requested font "ntxmi0" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmi0.tfm
+Requested font "ntxmi07" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmi07.tfm
+Requested font "ntxmi05" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmi05.tfm
+Requested font "ntxsy" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxsy7" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm
+Requested font "ntxsy5" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
+Requested font "ntxexx" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+10.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 10.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
+Requested font "ntxmia" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+Requested font "ntxmia" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+Requested font "ntxmia" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+10.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 10.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
+Requested font "ntxsym" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+10.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+Requested font "ntxsyc" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
 (Font)              scaled to size 10.0pt on input line 15.
+Requested font "[TeXGyreTermesX-Italic.otf]/OT:script=latn;language=dflt;-ss05;
++tnum;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Italic.otf
 )
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 8.5pt on input line 50.
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
  [7]
 \openout2 = `preface.aux'.
 
- (./preface.tex [8
+
+(./preface.tex [8
 
 
 
@@ -766,13 +998,18 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 
 ] (./book.toc
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 1.
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
 )
 \tf@toc=\write5
 \openout5 = `book.toc'.
 
- [13]
+
+[13]
 \openout2 = `acronym.aux'.
 
  (./acronym.tex [14
@@ -788,8 +1025,12 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 \openout2 = `part.aux'.
 
  (./part.tex
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 18.0pt on input line 10.
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 18.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
  [1
 
 
@@ -797,17 +1038,85 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 ] [2])
 \openout2 = `unix_linux_posix.aux'.
 
- (./unix_linux_posix.tex
+
+(./unix_linux_posix.tex
 Chapter 1.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 14.0pt on input line 9.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 14.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
 (Font)              scaled to size 8.5pt on input line 9.
+Requested font "[TeXGyreTermesX-Italic.otf]/OT:script=latn;language=dflt;-ss05;
++tnum;+lnum;mapping=tex-text;" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Italic.otf
 LaTeX Font Info:    Calculating math sizes for size <16> on input line 9.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+Requested font "ntx-Bold-tlf-ot1" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.
+tfm
+Requested font "ntx-Bold-tlf-ot1" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.
+tfm
+Requested font "ntx-Bold-tlf-ot1" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.
+tfm
+Requested font "ntxbmi0" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmi0.tfm
+Requested font "ntxbmi0" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmi0.tfm
+Requested font "ntxbmi0" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmi0.tfm
+Requested font "ntxbsy" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsy.tfm
+Requested font "ntxbsy" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsy.tfm
+Requested font "ntxbsy" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsy.tfm
+Requested font "ntxbexx" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+Requested font "ntxbexx" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+Requested font "ntxbexx" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+Requested font "ntxbmia" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+Requested font "ntxbmia" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+Requested font "ntxbmia" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+Requested font "ntxbsym" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+Requested font "ntxbsym" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+Requested font "ntxbsym" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+Requested font "ntxbsyc" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+Requested font "ntxbsyc" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+Requested font "ntxbsyc" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+Requested font "ntxbexa" at 16.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+Requested font "ntxbexa" at 11.67993pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+Requested font "ntxbexa" at 8.80005pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 18.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 7.3pt on input line 29.
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
 [3
 
 
@@ -815,68 +1124,173 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line 35.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
-File: ot1ntxtt.fd 2012/04/20 v3.1
-)
-LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 35.
-LaTeX Font Info:    Trying to load font information for OT1+ntxsups on input line 41.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxsups.fd
-File: ot1ntxsups.fd 2015/01/17 v1.0
-)
-LaTeX Font Info:    Font shape `OT1/ntxsups/m/n' will be
+Requested font "[lmmono10-regular]:" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono10-regula
+r.otf
+
+Package fontspec Info: Font family 'TeXGyreTermesX(1)' created for font
+(fontspec)             'TeXGyreTermesX' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,SmallCapsFeatures={RawFeature =
+(fontspec)             +pcap, },RawFeature=-ss05,Ligatures=TeX,Extension =
+(fontspec)             .otf,UprightFont = TeXGyreTermesX-Regular,BoldFont =
+(fontspec)             TeXGyreTermesX-Bold,ItalicFont =
+(fontspec)             TeXGyreTermesX-Italic,BoldItalicFont =
+(fontspec)             TeXGyreTermesX-BoldItalic,SlantedFont =
+(fontspec)             *-Slanted,BoldSlantedFont= *-BoldSlanted,Numbers =
+(fontspec)             {Monospaced,Lining},UprightFont = *-Regular,ItalicFont
+(fontspec)             = *-Italic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic,SlantedFont = *-Slanted,BoldSlantedFont=
+(fontspec)             *-BoldSlanted,VerticalPosition=Superior].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Regular.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;+sups;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Regular.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;+sups;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Bold.otf]/OT:script=latn;langua
+ge=dflt;-ss05;+tnum;+lnum;+sups;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Bold.otf]/OT:script=latn;langua
+ge=dflt;-ss05;+tnum;+lnum;+sups;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Italic.otf]/OT:script=latn;lang
+uage=dflt;-ss05;+tnum;+lnum;+sups;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Italic.otf]/OT:script=latn;lang
+uage=dflt;-ss05;+tnum;+lnum;+sups;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Slanted.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;+sups;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-Slanted.otf]/OT:script=latn;lan
+guage=dflt;-ss05;+tnum;+lnum;+sups;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;
+language=dflt;-ss05;+tnum;+lnum;+sups;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;
+language=dflt;-ss05;+tnum;+lnum;+sups;+smcp;+pcap;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn
+;language=dflt;-ss05;+tnum;+lnum;+sups;mapping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn
+;language=dflt;-ss05;+tnum;+lnum;+sups;+smcp;+pcap;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 41.
-LaTeX Font Info:    Font shape `OT1/ntxsups/m/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;+sups;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+Requested font "[TeXGyreTermesX-Regular.otf]/OT" at 8.49997pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;" at 
+8.50003pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(1)/m/n' will be
 (Font)              scaled to size 8.5pt on input line 41.
-LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;+sups;mapping=tex-text;" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+Requested font "[lmmono9-regular]:" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono9-regular
+.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 8.5pt on input line 41.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/it' will be
 (Font)              scaled to size 8.5pt on input line 41.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
-(Font)              scaled to size 8.5pt on input line 41.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+Requested font "[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;language=dflt;-s
+s05;+tnum;+lnum;mapping=tex-text;" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-BoldItalic.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 11.0pt on input line 54.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+Requested font "[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05
+;+tnum;+lnum;mapping=tex-text;" at 11.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Regular.otf
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 11.0pt on input line 54.
-Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
-(epstopdf)                    size: 62739 bytes
-(epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
-(epstopdf)                    size: 13846 bytes
-(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 80.
-Package epstopdf Info: Output file is already uptodate.
-<figure-eps-converted-to.pdf, id=59, 139.52126pt x 195.73125pt>
-File: figure-eps-converted-to.pdf Graphic file (type pdf)
-<use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 80.
-(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
- [4]
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 109.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
-File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
-)
-LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 109.
- [5 <./figure-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
-(epstopdf)                    size: 62739 bytes
-(epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
-(epstopdf)                    size: 13846 bytes
-(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 127.
-Package epstopdf Info: Output file is already uptodate.
-File: figure-eps-converted-to.pdf Graphic file (type pdf)
-<use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 127.
-(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
+Requested font "[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+t
+num;+lnum;mapping=tex-text;" at 11.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-Bold.otf
+File: figure.eps Graphic file (type eps)
+<figure.eps>
+ [4] [5]
+File: figure.eps Graphic file (type eps)
+<figure.eps>
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/it' will be
 (Font)              scaled to size 10.0pt on input line 133.
+Requested font "[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;language=dflt;-s
+s05;+tnum;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/newtx/TeXGyreTerme
+sX-BoldItalic.otf
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 146.
+Requested font "ntx-Regular-tlf-ot1" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-o
+t1.tfm
+Requested font "ntx-Regular-tlf-ot1" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-o
+t1.tfm
+Requested font "ntx-Regular-tlf-ot1" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-o
+t1.tfm
+Requested font "ntxmi07" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmi07.tfm
+Requested font "ntxmi05" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmi05.tfm
+Requested font "ntxmi05" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmi05.tfm
+Requested font "ntxsy7" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm
+Requested font "ntxsy5" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
+Requested font "ntxsy5" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
+Requested font "ntxexx" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxmia" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+Requested font "ntxmia" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+Requested font "ntxmia" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxmia.tfm
+Requested font "ntxsym" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 8.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 6.20496pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 4.67502pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 
 Overfull \hbox (0.61853pt too wide) in paragraph at lines 146--157
 [][]
@@ -887,16 +1301,12 @@ Overfull \hbox (3.0pt too wide) detected at line 232
  [] 
  []
 
-LaTeX Font Info:    Font shape `TS1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 239.
-LaTeX Font Info:    Trying to load font information for OT1+qhv on input line 239.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tex-gyre/ot1qhv.fd
-File: ot1qhv.fd 2009/09/25 v1.2 font definition file for OT1/qhv
-)
-LaTeX Font Info:    Font shape `OT1/qhv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 239.
-LaTeX Font Info:    Font shape `OT1/qhv/b/n' will be
-(Font)              scaled to size 9.40002pt on input line 239.
+Requested font "[lmsans10-regular]:mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans10-regula
+r.otf
+Requested font "[lmsans10-bold]:mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.o
+tf
 
 Overfull \hbox (3.0pt too wide) detected at line 239
  [] 
@@ -935,6 +1345,12 @@ Overfull \hbox (3.0pt too wide) detected at line 289
  []
 
 
+Overfull \hbox (14.17953pt too wide) in paragraph at lines 289--293
+ \TU/TeXGyreTermesX(0)/m/n/10 If you want to emphasize complete paragraphs of t
+exts in an [][]\TU/lmtt/m/n/10 Background []Information
+ []
+
+
 Overfull \hbox (3.0pt too wide) detected at line 300
  [] 
  []
@@ -947,8 +1363,10 @@ Overfull \hbox (3.0pt too wide) detected at line 300
  (./chapter.tex
 Chapter 2.
 
-Overfull \hbox (6.62218pt too wide) in paragraph at lines 18--18
-\OT1/minntx/m/n/10 that sum-ma-rizes the con-tent. The ab-stract will ap-pear \OT1/ntxtlf/m/it/10 on-line \OT1/minntx/m/n/10 at www.SpringerLink.com
+Overfull \hbox (8.28949pt too wide) in paragraph at lines 18--18
+\TU/TeXGyreTermesX(0)/m/n/10 that summarizes the content. The abstract will app
+ear \TU/TeXGyreTermesX(0)/m/it/10 online \TU/TeXGyreTermesX(0)/m/n/10 at www.Sp
+ringerLink.com
  []
 
 [13
@@ -958,33 +1376,11 @@ Overfull \hbox (6.62218pt too wide) in paragraph at lines 18--18
 
 
 ]
-Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
-(epstopdf)                    size: 62739 bytes
-(epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
-(epstopdf)                    size: 13846 bytes
-(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 82.
-Package epstopdf Info: Output file is already uptodate.
-File: figure-eps-converted-to.pdf Graphic file (type pdf)
-<use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 82.
-(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+File: figure.eps Graphic file (type eps)
+<figure.eps>
  [14] [15]
-Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
-(epstopdf)                    size: 62739 bytes
-(epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
-(epstopdf)                    size: 13846 bytes
-(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 129.
-Package epstopdf Info: Output file is already uptodate.
-File: figure-eps-converted-to.pdf Graphic file (type pdf)
-<use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 129.
-(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+File: figure.eps Graphic file (type eps)
+<figure.eps>
 
 Overfull \hbox (0.61853pt too wide) in paragraph at lines 148--159
 [][]
@@ -1033,6 +1429,12 @@ Overfull \hbox (3.0pt too wide) detected at line 291
  []
 
 
+Overfull \hbox (14.17953pt too wide) in paragraph at lines 291--295
+ \TU/TeXGyreTermesX(0)/m/n/10 If you want to emphasize complete paragraphs of t
+exts in an [][]\TU/lmtt/m/n/10 Background []Information
+ []
+
+
 Overfull \hbox (3.0pt too wide) detected at line 302
  [] 
  []
@@ -1044,19 +1446,59 @@ Overfull \hbox (3.0pt too wide) detected at line 302
 
  (./appendix.tex
 Appendix A.
-Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
-(epstopdf)                    size: 62739 bytes
-(epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
-(epstopdf)                    size: 13846 bytes
-(epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
-(epstopdf)             \includegraphics on input line 58.
-Package epstopdf Info: Output file is already uptodate.
-File: figure-eps-converted-to.pdf Graphic file (type pdf)
-<use figure-eps-converted-to.pdf>
-Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 58.
-(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+Requested font "ntx-Bold-tlf-ot1" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.
+tfm
+Requested font "ntx-Bold-tlf-ot1" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.
+tfm
+Requested font "ntx-Bold-tlf-ot1" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.
+tfm
+Requested font "ntxbmi0" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmi0.tfm
+Requested font "ntxbmi07" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmi07.tfm
+Requested font "ntxbmi05" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmi05.tfm
+Requested font "ntxbsy" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsy.tfm
+Requested font "ntxbsy7" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsy7.tfm
+Requested font "ntxbsy5" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsy5.tfm
+Requested font "ntxbexx" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+Requested font "ntxbexx" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+Requested font "ntxbexx" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+Requested font "ntxbmia" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+Requested font "ntxbmia" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+Requested font "ntxbmia" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+Requested font "ntxbsym" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+Requested font "ntxbsym" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+Requested font "ntxbsym" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+Requested font "ntxbsyc" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+Requested font "ntxbsyc" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+Requested font "ntxbsyc" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+Requested font "ntxbexa" at 10.0pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+Requested font "ntxbexa" at 7.3pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+Requested font "ntxbexa" at 5.5pt
+ -> /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+File: figure.eps Graphic file (type eps)
+<figure.eps>
 [23
 
 
@@ -1093,28 +1535,25 @@ Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
 
 
 
-] [29])
+]
+[29])
 \tf@thm=\write6
 \openout6 = `book.thm'.
 
- (./book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./unix_linux_posix.aux) (./chapter.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
+ (./book.aux (./dedication.aux) (./foreword.aux) (./preface.aux)
+(./acknowledgement.aux) (./acronym.aux) (./part.aux) (./unix_linux_posix.aux)
+(./chapter.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9287 strings out of 478268
- 139234 string characters out of 5846348
- 437371 words of memory out of 5000000
- 27185 multiletter control sequences out of 15000+600000
- 562162 words of font info for 199 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 69i,12n,76p,773b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on book.pdf (43 pages, 266909 bytes).
-PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 10578 strings out of 476179
+ 210694 string characters out of 5809543
+ 569708 words of memory out of 5000000
+ 31053 multiletter control sequences out of 15000+600000
+ 516262 words of font info for 163 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 88i,12n,102p,762b,353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on book.pdf (43 pages).
