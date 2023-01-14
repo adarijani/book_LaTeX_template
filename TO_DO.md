@@ -1,0 +1,2 @@
+- vs code and the required extensions
+- caution about the pdf
