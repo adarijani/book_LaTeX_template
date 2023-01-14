@@ -15,4 +15,3 @@ can be installed as the [mactex](https://www.tug.org/mactex/) package using the 
 brew install mactex
 ```
 
-- to be continued
