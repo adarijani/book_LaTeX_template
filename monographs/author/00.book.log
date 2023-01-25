@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  14 JAN 2023 15:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.15)  25 JAN 2023 10:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/rknot/GitHub/teaching/monographs/author/00.book.tex
-(/Users/rknot/GitHub/teaching/monographs/author/00.book.tex
+**/Users/rknot/Desktop/book_LaTeX_template/monographs/author/00.book.tex
+(/Users/rknot/Desktop/book_LaTeX_template/monographs/author/00.book.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./svmono.cls
 Document Class: svmono 2021/09/08 v5.10 
@@ -796,10 +796,10 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
 (Font)              scaled to size 8.5pt on input line 75.
 Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
+(epstopdf)                    date: 2023-01-25 10:38:21
 (epstopdf)                    size: 62739 bytes
 (epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
+(epstopdf)                    date: 2023-01-25 10:38:21
 (epstopdf)                    size: 13846 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
 (epstopdf)             \includegraphics on input line 114.
@@ -811,10 +811,10 @@ Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 114.
 (pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
  [5] [6 <./figure-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
+(epstopdf)                    date: 2023-01-25 10:38:21
 (epstopdf)                    size: 62739 bytes
 (epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
+(epstopdf)                    date: 2023-01-25 10:38:21
 (epstopdf)                    size: 13846 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
 (epstopdf)             \includegraphics on input line 161.
@@ -908,10 +908,10 @@ Overfull \hbox (3.0pt too wide) detected at line 334
 ]
 Appendix A.
 Package epstopdf Info: Source file: <figure.eps>
-(epstopdf)                    date: 2007-06-29 20:04:26
+(epstopdf)                    date: 2023-01-25 10:38:21
 (epstopdf)                    size: 62739 bytes
 (epstopdf)             Output file: <figure-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-01-12 23:36:18
+(epstopdf)                    date: 2023-01-25 10:38:21
 (epstopdf)                    size: 13846 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
 (epstopdf)             \includegraphics on input line 58.
@@ -957,14 +957,14 @@ Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
  (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux)) ) 
 Here is how much of TeX's memory you used:
  9408 strings out of 478268
- 141926 string characters out of 5846348
+ 141962 string characters out of 5846346
  437829 words of memory out of 5000000
  27299 multiletter control sequences out of 15000+600000
  571765 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,76p,783b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,76p,795b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on 00.book.pdf (35 pages, 250270 bytes).
+Output written on 00.book.pdf (35 pages, 250309 bytes).
 PDF statistics:
  203 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
