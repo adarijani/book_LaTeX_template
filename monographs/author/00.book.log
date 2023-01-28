@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.15)  28 JAN 2023 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.15)  28 JAN 2023 23:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -636,7 +636,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count328
 \l__pdf_internal_box=\box100
-) (./00.book.aux)
+) (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
 \openout1 = `00.book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 49.
@@ -715,6 +715,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
+ (./00.book.out) (./00.book.out)
 \@outlinefile=\write5
 \openout5 = `00.book.out'.
 
@@ -812,7 +813,10 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 
 
-]
+] (./00.book.toc
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+)
 \tf@toc=\write6
 \openout6 = `00.book.toc'.
 
@@ -823,19 +827,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 
 
-]
-./acronym.tex:26: Missing } inserted.
-<inserted text> 
-                }
-l.26 \end{description}
-                      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-) [15] [16
+]) [15] [16
 
 
 
@@ -876,8 +868,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.67993> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.80005> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 22.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 23.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -924,16 +914,6 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.5pt on input line 75.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
 (Font)              scaled to size 8.5pt on input line 75.
-
-
-LaTeX Warning: Reference `sec:2' on page 5 undefined on input line 90.
-
-
-LaTeX Warning: Reference `subsec:2' on page 5 undefined on input line 98.
-
-
-LaTeX Warning: Reference `fig:1' on page 5 undefined on input line 98.
-
 Package epstopdf Info: Source file: <figure.eps>
 (epstopdf)                    date: 2023-01-28 22:20:24
 (epstopdf)                    size: 62739 bytes
@@ -943,25 +923,12 @@ Package epstopdf Info: Source file: <figure.eps>
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
 (epstopdf)             \includegraphics on input line 114.
 Package epstopdf Info: Output file is already uptodate.
-<figure-eps-converted-to.pdf, id=96, 139.52126pt x 195.73125pt>
+<figure-eps-converted-to.pdf, id=201, 139.52126pt x 195.73125pt>
 File: figure-eps-converted-to.pdf Graphic file (type pdf)
 <use figure-eps-converted-to.pdf>
 Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 114.
 (pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
-
-LaTeX Warning: Reference `sec:2' on page 5 undefined on input line 120.
-
-[5]
-
-LaTeX Warning: Reference `sec:2' on page 6 undefined on input line 136.
-
-
-LaTeX Warning: Reference `fig:2' on page 6 undefined on input line 136.
-
-
-LaTeX Warning: Reference `tab:1' on page 6 undefined on input line 143.
-
-[6 <./figure-eps-converted-to.pdf>]
+ [5] [6 <./figure-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figure.eps>
 (epstopdf)                    date: 2023-01-28 22:20:24
 (epstopdf)                    size: 62739 bytes
@@ -975,18 +942,8 @@ File: figure-eps-converted-to.pdf Graphic file (type pdf)
 <use figure-eps-converted-to.pdf>
 Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 161.
 (pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
-
-
-LaTeX Warning: Reference `sec:2' on page 7 undefined on input line 165.
-
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
 (Font)              scaled to size 10.0pt on input line 167.
-
-LaTeX Warning: Reference `sec:2' on page 7 undefined on input line 167.
-
-
-LaTeX Warning: Reference `sec:2' on page 7 undefined on input line 169.
-
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 180.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 180.
@@ -999,27 +956,9 @@ Overfull \hbox (0.61853pt too wide) in paragraph at lines 180--191
 [][]
  []
 
-
-LaTeX Warning: Reference `sec:2' on page 7 undefined on input line 200.
-
 [7]
-
-LaTeX Warning: Reference `sec:1' on page 8 undefined on input line 207.
-
-
-LaTeX Warning: Reference `subsec:2' on page 8 undefined on input line 208.
-
-
-LaTeX Warning: Reference `sec:2' on page 8 undefined on input line 212.
-
-
-LaTeX Warning: Reference `sec:2' on page 8 undefined on input line 224.
-
 Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 240.
-
-LaTeX Warning: Reference `sec:2' on page 8 undefined on input line 245.
-
-[8]
+ [8]
 Overfull \hbox (3.0pt too wide) detected at line 266
  [] 
  []
@@ -1078,83 +1017,7 @@ Overfull \hbox (3.0pt too wide) detected at line 334
 
 (./references.tex [11
 
-]
-
-LaTeX Warning: Citation `science-contrib' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `science-online' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `science-mono' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `science-journal' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `science-DOI' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `phys-online' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `phys-mono' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `phys-journal' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `phys-DOI' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `phys-contrib' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `psysoc-mono' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `psysoc-online' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `psysoc-journal' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `psysoc-contrib' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `psysoc-DOI' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `humlinphil-journal' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `humlinphil-contrib' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `humlinphil-mono' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `humlinphil-online' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `humlinphil-DOI' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `basic-contrib' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `basic-online' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `basic-journal' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `basic-DOI' on page 12 undefined on input line 28.
-
-
-LaTeX Warning: Citation `basic-mono' on page 12 undefined on input line 28.
-
-[12])) [13]
+] [12])) [13]
 \openout2 = `appendix.aux'.
 
  (./appendix.tex [14
@@ -1165,12 +1028,6 @@ LaTeX Warning: Citation `basic-mono' on page 12 undefined on input line 28.
 
 ]
 Appendix A.
-
-LaTeX Warning: Reference `sec:A1' on page 15 undefined on input line 31.
-
-
-LaTeX Warning: Reference `sec:A2' on page 15 undefined on input line 41.
-
 Package epstopdf Info: Source file: <figure.eps>
 (epstopdf)                    date: 2023-01-28 22:20:24
 (epstopdf)                    size: 62739 bytes
@@ -1209,50 +1066,32 @@ Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
 
 
 
-]
-
-LaTeX Warning: Reference `intro' on page 19 undefined on input line 4.
+]) [19] (./00.book.ind [20
 
 
-LaTeX Warning: Reference `prob1' on page 19 undefined on input line 6.
 
 
-LaTeX Warning: Reference `prob2' on page 19 undefined on input line 11.
-
-) [19]
-No file 00.book.ind.
+] [21])
 \tf@thm=\write7
 \openout7 = `00.book.thm'.
 
-(./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `00.book.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `00.book.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  534ADD21C107C203E8AA969AC50E3454;2237.
+ (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
+Package rerunfilecheck Info: File `00.book.out' has not changed.
+(rerunfilecheck)             Checksum: 12F65B300F1F64B9DD7577C918AA14ED;2315.
  ) 
 Here is how much of TeX's memory you used:
- 15641 strings out of 478268
- 237874 string characters out of 5846346
- 527580 words of memory out of 5000000
- 33361 multiletter control sequences out of 15000+600000
+ 15701 strings out of 478268
+ 238662 string characters out of 5846346
+ 536971 words of memory out of 5000000
+ 33390 multiletter control sequences out of 15000+600000
  571765 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,76p,803b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,76p,798b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on 00.book.pdf (33 pages, 254260 bytes).
+Output written on 00.book.pdf (35 pages, 259449 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
- 122 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 514 PDF objects out of 1000 (max. 8388607)
+ 439 compressed objects within 5 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
