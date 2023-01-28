@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.15)  28 JAN 2023 23:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.15)  28 JAN 2023 23:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -636,7 +636,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count328
 \l__pdf_internal_box=\box100
-) (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
+) (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./acronym.aux) (./glossary.aux) (./solutions.aux))
 \openout1 = `00.book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 49.
@@ -820,16 +820,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 \tf@toc=\write6
 \openout6 = `00.book.toc'.
 
- [13]
-\openout2 = `acronym.aux'.
-
- (./acronym.tex [14
-
-
-
-]) [15] [16
-
-
+ [13] [14
 
 
 ]
@@ -923,7 +914,7 @@ Package epstopdf Info: Source file: <figure.eps>
 (epstopdf)             Command: <repstopdf --outfile=figure-eps-converted-to.pdf figure.eps>
 (epstopdf)             \includegraphics on input line 114.
 Package epstopdf Info: Output file is already uptodate.
-<figure-eps-converted-to.pdf, id=201, 139.52126pt x 195.73125pt>
+<figure-eps-converted-to.pdf, id=197, 139.52126pt x 195.73125pt>
 File: figure-eps-converted-to.pdf Graphic file (type pdf)
 <use figure-eps-converted-to.pdf>
 Package pdftex.def Info: figure-eps-converted-to.pdf  used on input line 114.
@@ -1047,9 +1038,9 @@ Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
  []
 
 ) [16]
-\openout2 = `glossary.aux'.
+\openout2 = `acronym.aux'.
 
- (./glossary.tex) [17
+ (./acronym.tex) [17
 
 
 
@@ -1058,40 +1049,49 @@ Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
 
 
 ]
+\openout2 = `glossary.aux'.
+
+ (./glossary.tex [18
+
+
+
+
+
+]) [19]
 \openout2 = `solutions.aux'.
 
- (./solutions.tex [18
+ (./solutions.tex [20
 
 
 
 
 
-]) [19] (./00.book.ind [20
+]) [21] (./00.book.ind [22
 
 
 
 
-] [21])
+] [23])
 \tf@thm=\write7
 \openout7 = `00.book.thm'.
 
- (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./acronym.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./glossary.aux) (./solutions.aux))
+ (./00.book.aux (./dedication.aux) (./foreword.aux) (./preface.aux) (./acknowledgement.aux) (./part.aux) (./01.unix_linux_posix.aux) (./appendix.aux) (./acronym.aux) (./glossary.aux) (./solutions.aux))
 Package rerunfilecheck Info: File `00.book.out' has not changed.
-(rerunfilecheck)             Checksum: 12F65B300F1F64B9DD7577C918AA14ED;2315.
+(rerunfilecheck)             Checksum: 8332CC27EEE372F9A8DEAE10D42ECBCF;2504.
  ) 
 Here is how much of TeX's memory you used:
- 15701 strings out of 478268
- 238662 string characters out of 5846346
- 536971 words of memory out of 5000000
- 33390 multiletter control sequences out of 15000+600000
+ 15702 strings out of 478268
+ 238676 string characters out of 5846346
+ 536974 words of memory out of 5000000
+ 33391 multiletter control sequences out of 15000+600000
  571765 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,76p,798b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ntxsups-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on 00.book.pdf (35 pages, 259449 bytes).
+Output written on 00.book.pdf (35 pages, 259562 bytes).
 PDF statistics:
- 514 PDF objects out of 1000 (max. 8388607)
- 439 compressed objects within 5 object streams
+ 519 PDF objects out of 1000 (max. 8388607)
+ 444 compressed objects within 5 object streams
  125 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
