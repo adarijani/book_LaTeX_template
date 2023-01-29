@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex 00.book.idx"] 1674992348 "00.book.idx" "00.book.ind" "00.book" 1674992840
-  "00.book.idx" 1674992752 508 1992c4c5e11ca068d8b463d723661c0b "pdflatex"
+["makeindex 00.book.idx"] 1674994503 "00.book.idx" "00.book.ind" "00.book" 1674994560
+  "00.book.idx" 0 -1 0 "pdflatex"
   (generated)
   "00.book.ilg"
   "00.book.ind"
-["pdflatex"] 1674992838 "/Users/rknot/Github/book_LaTeX_template/monographs/author/00.book.tex" "00.book.pdf" "00.book" 1674992840
+["pdflatex"] 1674994558 "/Users/rknot/Github/book_LaTeX_template/monographs/author/00.book.tex" "00.book.pdf" "00.book" 1674994560
   "/Users/rknot/Github/book_LaTeX_template/monographs/author/00.book.tex" 1674992836 2310 e1f0eba232828d1571c1148d9b7e4e01 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntxsups_ot1.enc" 1583272976 2856 9c183bd297dcc12b554656ec0c79f350 ""
@@ -134,14 +134,14 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1671120193 2826431 0528bab42730ea79934992d72fb3c76c ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "00.book.aux" 1674992839 814 9429207b480c93d7475581ef7bae42eb "pdflatex"
-  "00.book.ind" 1674992348 395 d0726bc8ad4aa79fb663fcc6dccf763e "makeindex 00.book.idx"
-  "00.book.out" 1674992839 210 782b7402ee3958d146ceb1bf96f3005f "pdflatex"
+  "00.book.aux" 1674994560 727 046ab91c530c7deb838e408aeb774079 "pdflatex"
+  "00.book.ind" 0 -1 0 "makeindex 00.book.idx"
+  "00.book.out" 1674994560 219 9e6f4d060d790e1a01b42eb6ee8e162e "pdflatex"
   "00.book.tex" 1674992836 2310 e1f0eba232828d1571c1148d9b7e4e01 ""
-  "00.book.toc" 1674992839 128 488e7433299a4149ebb7313be2723b05 "pdflatex"
-  "foreword.aux" 1674992839 1297 5a77aa773ebe38e95197c68ab64f7afa "pdflatex"
-  "foreword.tex" 1674990479 5423 00696e209aa73588b3260c205b27a4d4 ""
-  "part.aux" 1674992839 1416 4ff064009a15a2e9860faa7f5167681f "pdflatex"
+  "00.book.toc" 1674994560 131 92f855e7323515f71126c127534ccba2 "pdflatex"
+  "foreword.aux" 1674994560 1388 6bddb80fc7a2aeaeff9b58357b50f109 "pdflatex"
+  "foreword.tex" 1674994558 7846 994612bd90792f622e99b54efd525a41 ""
+  "part.aux" 1674994560 1416 f83d0240e7adc152cbd5939556560bef "pdflatex"
   "part.tex" 1674985610 503 1df076897131104a0ac34619163e4106 ""
   "svmono.cls" 1674985610 82134 984354dc3c39dcc5f40bc6ced4ff401d ""
   (generated)
