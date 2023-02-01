@@ -1,3 +1,4 @@
+
 %%%%%%%%%%%%%%%%%%%% book.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 % sample root file for the chapters of your "monograph"
@@ -25,9 +26,7 @@
 \usepackage{mathptmx}
 \usepackage{helvet}
 \usepackage{courier}
-%
 \usepackage{type1cm}         
-
 \usepackage{makeidx}         % allows index generation
 \usepackage{graphicx}        % standard LaTeX graphics tool
                              % when including figure files
@@ -49,8 +48,8 @@
 \begin{document}
 
 
-\title{\center{TRIGONOMETRIC SERIES} \\ \center{THIRD EDITION} \\ \center{VOLUME I \& II}}
-\author{\center{Antoni Zygmund}}
+\title{\center{Functionas of Bounded} \\ \center{Variation and Free} \\ \center{Discontinuity Problems}}
+\author{\center{LUIGI AMBROSIO}, NICOLA FUSCO \\ \center{and} \\ \center{DIEGO PALLARA}}
 \subtitle{\center{\TeX\;typesetting by Ali Darijani}}
 
 \maketitle
@@ -61,8 +60,8 @@
 
 
 \tableofcontents
-\include{foreword}
-%\include{preface}
+% \include{foreword}
+\include{preface}
 %\include{acknowledgement}
 \include{dedication}
 
@@ -78,6 +77,8 @@
 \backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \include{acronym}
 \include{glossary}
+\bibliographystyle{alpha}
+\bibliography{references.bib}
 \include{solutions}
 \printindex
 

@@ -1,0 +1,89 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 00.book.aux
+A level-1 auxiliary file: preface.aux
+A level-1 auxiliary file: dedication.aux
+A level-1 auxiliary file: part_I.aux
+A level-1 auxiliary file: 01.chapter.aux
+A level-1 auxiliary file: part_II.aux
+A level-1 auxiliary file: appendix.aux
+A level-1 auxiliary file: acronym.aux
+A level-1 auxiliary file: glossary.aux
+The style file: alpha.bst
+A level-1 auxiliary file: solutions.aux
+Database file #1: references.bib
+Warning--I didn't find a database entry for "208"
+Warning--I didn't find a database entry for "278"
+Warning--I didn't find a database entry for "145"
+Warning--I didn't find a database entry for "173"
+Warning--I didn't find a database entry for "152"
+Warning--I didn't find a database entry for "242"
+Warning--I didn't find a database entry for "science-contrib"
+Warning--I didn't find a database entry for "science-online"
+Warning--I didn't find a database entry for "science-mono"
+Warning--I didn't find a database entry for "science-journal"
+Warning--I didn't find a database entry for "science-DOI"
+Warning--I didn't find a database entry for "phys-online"
+Warning--I didn't find a database entry for "phys-mono"
+Warning--I didn't find a database entry for "phys-journal"
+Warning--I didn't find a database entry for "phys-DOI"
+Warning--I didn't find a database entry for "phys-contrib"
+Warning--I didn't find a database entry for "psysoc-mono"
+Warning--I didn't find a database entry for "psysoc-online"
+Warning--I didn't find a database entry for "psysoc-journal"
+Warning--I didn't find a database entry for "psysoc-contrib"
+Warning--I didn't find a database entry for "psysoc-DOI"
+Warning--I didn't find a database entry for "humlinphil-journal"
+Warning--I didn't find a database entry for "humlinphil-contrib"
+Warning--I didn't find a database entry for "humlinphil-mono"
+Warning--I didn't find a database entry for "humlinphil-online"
+Warning--I didn't find a database entry for "humlinphil-DOI"
+Warning--I didn't find a database entry for "basic-contrib"
+Warning--I didn't find a database entry for "basic-online"
+Warning--I didn't find a database entry for "basic-journal"
+Warning--I didn't find a database entry for "basic-DOI"
+Warning--I didn't find a database entry for "basic-mono"
+Warning--can't use both author and editor fields in Federer_1996
+Warning--empty booktitle in Volpert1985AnalysisIC
+You've used 4 entries,
+            2543 wiz_defined-function locations,
+            625 strings with 5408 characters,
+and the built_in function-call counts, 1182 in all, are:
+= -- 100
+> -- 43
+< -- 3
++ -- 12
+- -- 12
+* -- 63
+:= -- 206
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 18
+chr.to.int$ -- 4
+cite$ -- 6
+duplicate$ -- 64
+empty$ -- 105
+format.name$ -- 19
+if$ -- 238
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 7
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 25
+quote$ -- 0
+skip$ -- 43
+stack$ -- 0
+substring$ -- 28
+swap$ -- 5
+text.length$ -- 3
+text.prefix$ -- 3
+top$ -- 0
+type$ -- 20
+warning$ -- 2
+while$ -- 9
+width$ -- 6
+write$ -- 49
+(There were 33 warnings)

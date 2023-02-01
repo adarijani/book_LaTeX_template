@@ -1,0 +1,24 @@
+\begin{thebibliography}{Maz85}
+
+\bibitem[Fed96]{Federer_1996}
+Herbert Federer.
+\newblock {\em Geometric Measure Theory}.
+\newblock Springer Berlin Heidelberg, 1996.
+
+\bibitem[Giu84]{Giusti_1984}
+Enrico Giusti.
+\newblock {\em Minimal Surfaces and Functions of Bounded Variation}.
+\newblock Birkh{\"a}user Boston, 1984.
+
+\bibitem[Maz85]{Maz_ja_1985}
+Vladimir~G. Maz'ja.
+\newblock {\em Sobolev Spaces}.
+\newblock Springer Berlin Heidelberg, 1985.
+
+\bibitem[VK85]{Volpert1985AnalysisIC}
+A.~I. Vol'pert and S.~I. Khudi︠a︡ev.
+\newblock Analysis in classes of discontinuous functions and equations of
+  mathematical physics.
+\newblock 1985.
+
+\end{thebibliography}

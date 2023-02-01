@@ -4,21 +4,53 @@
 % Use this file as a template for your own input.
 %
 %%%%%%%%%%%%%%%%%%%%%%%% Springer %%%%%%%%%%%%%%%%%%%%%%%%%%
-\Extrachap{Preface}
+% \Extrachap{Preface}
 \preface
 
 %% Please write your preface here
+Functions of bounded variation ($\mathbf{BV}$ functions in the sequel) have had an important role in several classical problems of the
+calculus of variations, for instance in the theory of graphs with minimal area. More recently, this class of functions has been the natural
+tool to study several problems characterized by the appearance of discontinuity hypersurfaces; examples come from image segmentation theory 
+and fracture mechanics. The analysis of these problems require a knowledge of some of the basic concepts of geometric measure theory, such 
+as Hausdorff measures and rectifiable sets.\\
+One of the motivations which led us to write this book is the desire to provide a systematic and self-contained presentation of the theory 
+of functions of bounded variation and, at the same time, an elementary introduction to geometric measure theory. In fact, after the classical 
+treatises of V. G. Mazj'a \cite{Maz_ja_1985}, A. I. Vol'pert and S. I. Hudjaev \cite{Volpert1985AnalysisIC} and H. Federer \cite{Federer_1996} 
+(in the latter $\mathbf{BV}$ functions are presented in the more general framework of the currents), some aspects of the theory of $\mathbf{BV}$ 
+functions have been treated in the monographs of E. Giusti \cite{Giusti_1984}, U. Massari and M.Miranda \cite{208}, W. Ziemer \cite{278}, 
+L.C. Evans and R. F. Gariepy \cite{145}, M.Giaquinta, G. Modica and J. Soucek \cite{173}, but the analysis of fine properties of $\mathbf{BV}$ 
+functions and the development of general variational problems in $\mathbf{BV}$ is not the central goal of any of these monographs. The first 
+half of our book is, instead, explicitly devoted to the theory of $\mathbf{BV}$ functions, from classical results up to the developments 
+of the last ten years.\\
+\indent Our starting point is, in Chapter 1, abstract measure theory. We assume the reader has an elementary knowledge of the subject, and 
+we emphasize some aspects perhaps less widely known, but fundamental for the development of the book, such as weak convergence in spaces 
+of measures, outer measures and Caratheodory construction.\\
+In the second chapter we introduce all the basic ingredients of geometric measure theory, such as Hausdorff measures $\mathcal{H}^k$, 
+covering theorems, rectifiable sets, area and coarea formulae, Minkowski content. Moreover, the chapter contains a brief treatment of Young 
+measures and of the continuity and semicontinuity properties of functionals defined on measures. The aim is to give a quite general 
+presentation, without restricting e.g. to the case of hypersurfaces, which is the only one relevant for the development of the $\mathbf{BV}$ 
+theory. In our treatment of geometric measure theory a fundamental role is played by Lipschitz functions: indeed, these functions are more 
+flexible than $\mathit{C}^1$ functions with respect, for instance, to truncation and extension and, by the classical Rademacher theorem,
+they are almost everywhere differentiable. Hence, as shown by H. Federer in \cite{152}, the canonical liberalization techniques 
+can be adapted to this context. In particular , we develop the whole theory without using the link between Lipschitz and $\mathit{C}^1$ 
+functions provided by the Whitney extension theorem. Another feature of the chapter and of the subsequent one is the emphasis on the 
+so-called blow-up technique, which is used both for the study of the local properties of rectifiable sets and for the fine theory of $\mathbf{BV}$ 
+functions. In this respect, a unifying concept is that if tangent measure, introduced (adapting with minor variants the original definition of
+D. Preiss in \cite{242}) in Section ~\ref{section 2.7}  
 
-In preparing this version in English of Fourier's celebrated treatise on Heat, the translator has followed
-faithfully the French original. He has, however, appended brief foot-notes, in which will be found references 
-to other writings of Fourier and modern authors on the subject : these are distinguished by the initials A. F.
- The notes marked R. L. E. are taken from pencil memoranda on the margin of a copy of the work that formerly 
- belonged to the late Robert Leslie Ellis, Fellow of Trinity College, and is now in the possession of St John's
-  College. It was the translator's hope to have been able to prefix to this treatise a Memoir of Fourier's 
-  life with some account of his writings; unforeseen circumstances have however prevented its completion in 
-  time to appear with the present work.
+
+\begin{equation}
+  J(\Gamma, u)\coloneqq \int_{R\backslash \Gamma}^{}\|\nabla u\|^2 +\alpha\|u-g\|^2 dx + \beta \mathcal{H}^{N-1} (R\cap \Gamma)
+\end{equation}
+
+
 
 \vspace{\baselineskip}
-\begin{flushright}\noindent
-Berlin, \today \hfill {\it Ali Darijani}\\
-\end{flushright}
+
+\noindent \textit{Pisa} \hfill L. A.\\
+\textit{Florence} \hfill N. F.\\
+\textit{Lecce} \hfill D. P.\\
+June 1999\\
+% \begin{flushright}\noindent
+% Berlin, \today \hfill {\it Ali Darijani}\\
+% \end{flushright}
